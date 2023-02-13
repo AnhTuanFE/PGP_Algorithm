@@ -1,0 +1,24 @@
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP_Algorithm.Form1.resources
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP_Algorithm.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\bin\Debug\PGP Algorithm.exe.config
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\bin\Debug\PGP Algorithm.exe
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\bin\Debug\PGP Algorithm.pdb
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.exe
+C:\Users\nguyenthao\Desktop\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.pdb
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\bin\Debug\PGP Algorithm.exe.config
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\bin\Debug\PGP Algorithm.exe
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\bin\Debug\PGP Algorithm.pdb
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\bin\Debug\BouncyCastle.Crypto.dll
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.AssemblyReference.cache
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP_Algorithm.Form1.resources
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP_Algorithm.Properties.Resources.resources
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.GenerateResource.cache
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.CoreCompileInputs.cache
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.csproj.CopyComplete
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.exe
+E:\HỌC TẬP\NĂM BA 2021-2022\HỌC KÌ 2 NĂM 3\ÁN TOÀN THÔNG TIN\BTL\PGP Algorithm\PGP Algorithm\obj\Debug\PGP Algorithm.pdb

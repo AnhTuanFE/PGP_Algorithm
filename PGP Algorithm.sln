@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGP Algorithm", "PGP Algorithm\PGP Algorithm.csproj", "{04AA6721-6F91-44BB-8B16-1F36A44B9462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AA6721-6F91-44BB-8B16-1F36A44B9462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AA6721-6F91-44BB-8B16-1F36A44B9462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AA6721-6F91-44BB-8B16-1F36A44B9462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AA6721-6F91-44BB-8B16-1F36A44B9462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7590250-25AE-4446-9ADE-C0E162C08847}
+	EndGlobalSection
+EndGlobal
